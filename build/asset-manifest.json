@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/favorbliss910/blisspix/static/css/main.98658ab4.css",
+    "main.js": "/favorbliss910/blisspix/static/js/main.8a5bb5f8.js",
+    "index.html": "/favorbliss910/blisspix/index.html",
+    "main.98658ab4.css.map": "/favorbliss910/blisspix/static/css/main.98658ab4.css.map",
+    "main.8a5bb5f8.js.map": "/favorbliss910/blisspix/static/js/main.8a5bb5f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98658ab4.css",
+    "static/js/main.8a5bb5f8.js"
+  ]
+}
