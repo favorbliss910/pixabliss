@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pixabliss/static/css/main.98658ab4.css",
+    "main.js": "/pixabliss/static/js/main.8a5bb5f8.js",
+    "index.html": "/pixabliss/index.html",
+    "main.98658ab4.css.map": "/pixabliss/static/css/main.98658ab4.css.map",
+    "main.8a5bb5f8.js.map": "/pixabliss/static/js/main.8a5bb5f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98658ab4.css",
+    "static/js/main.8a5bb5f8.js"
+  ]
+}
